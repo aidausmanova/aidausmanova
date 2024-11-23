@@ -2,7 +2,7 @@
 
 - 💻 I am a doctoral researcher at Leuphana University Lüneburg
 - 🌱 My research is focused on Natural Language Processing, Knowledge Graphs, and their application in Sustaianability
-- 😄 I am always excited to broaden my knowledge and work on intruiging projects, especially for environmental and social justice
+- 😄 I am always excited to broaden my knowledge and work on intriguing projects, especially for environmental and social justice
 <!--
 **aidausmanova/aidausmanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
